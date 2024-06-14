@@ -10,24 +10,24 @@ _If you read this you in a right way! I'm a front-end developer, I love to learn
 
 ## You can find me on these platforms:
 
-<a href="https://www.linkedin.com/in/kateryna-zhuvak/"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a>
-<a href="https://t.me/KaterynaZhuvak"> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a>
+<code><a href="https://www.linkedin.com/in/kateryna-zhuvak/"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a></code>
+<code><a href="https://t.me/KaterynaZhuvak"> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a></code>
 
-<h2>Tools and languages</h2>
+## Tools and languages:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/REACTROUTER" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/css3" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/react" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/REACTROUTER" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/redux" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/styledcomponents" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /></code>
+<code><img height="32" width="32" src="https://cdn.simpleicons.org/git" /></code>
 
 ## And of course you can see my progress:
 
-<img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=KaterynaZhuvak&show_icons=true&theme=date_night' />
+![my stats](https://github-readme-stats.vercel.app/api?username=KaterynaZhuvak&show_icons=true&theme=date_night)
 
-<img alt='my languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaZhuvak&langs_count=8&layout=compact&theme=date_night' />
+![my languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaZhuvak&langs_count=8&layout=compact&theme=date_night)
