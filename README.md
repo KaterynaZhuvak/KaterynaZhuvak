@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 <img alt='my stats' src='https://github-readme-stats.vercel.app/api?username=KaterynaZhuvak&show_icons=true&theme=date_night' />
 
 <img alt='my languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaZhuvak&langs_count=8&layout=compact&theme=date_night' />
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KaterynaZhuvak/KaterynaZhuvak/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
