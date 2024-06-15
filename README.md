@@ -1,4 +1,4 @@
-<div><img style='width: 100%' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt='programmer'/></div>
+<div><img width='100%' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt='programmer'/></div>
 
 <h1 style='text-align: center;'>Hi there💎</h1>
 
