@@ -1,17 +1,14 @@
-<div style='display: flex; align-items: center; justify-content: center;'><img style='background-position: center; background-size: cover;' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt='programmer'/></div>
+<div><img style='width: 100%' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' alt='programmer'/></div>
 
-# Hi there!
+<h1 style='text-align: center;'>Hi there💎</h1>
 
-_If you read this you in a right way! I'm a front-end developer, I love to learn new things and I'm always looking for new challenges._
+_If you read this👀 you in a right way! I'm a front-end developer, I love to learn new things and I'm always looking for new challenges._
 
--🔭 I’m currently working on [MiFin](https://github.com/KaterynaZhuvak/MyFin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaterynaZhuvak&theme=chalk)](https://github.com/KaterynaZhuvak/github-profile-trophy)
+
+-🔭 I’m currently working on [MyFin](https://github.com/KaterynaZhuvak/MyFin)
 
 -🌱 I’m currently learning new technologies like Storybook, Tailwind and MobX.
-
-## You can find me on these platforms:
-
-<code><a href="https://www.linkedin.com/in/kateryna-zhuvak/"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a></code>
-<code><a href="https://t.me/KaterynaZhuvak"> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a></code>
 
 ## Tools and languages:
 
@@ -26,8 +23,10 @@ _If you read this you in a right way! I'm a front-end developer, I love to learn
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /></code>
 <code><img height="32" width="32" src="https://cdn.simpleicons.org/git" /></code>
 
-## And of course you can see my progress:
+![my languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaZhuvak&langs_count=8&layout=compact&theme=gruvbox)
 
-![my stats](https://github-readme-stats.vercel.app/api?username=KaterynaZhuvak&show_icons=true&theme=date_night)
 
-![my languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaterynaZhuvak&langs_count=8&layout=compact&theme=date_night)
+## You can find me on these platforms:
+
+<code><a href="https://www.linkedin.com/in/kateryna-zhuvak/"> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" /></a></code>
+<code><a href="https://t.me/KaterynaZhuvak"> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /></a></code>
